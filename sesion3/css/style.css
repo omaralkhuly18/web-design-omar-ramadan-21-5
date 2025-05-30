@@ -330,6 +330,114 @@ input.submit-btn {
     margin-left: 5%;
 }
 
+.customers_class {
+    width: 100%;
+    padding: 5% 0;
+}
+
+.overly_are_class {
+    width: 100%;
+}
+
+.overly_are_class p {
+    color: #85868b;
+}
+
+.adrees_text {
+    text-align: center;
+}
+
+.adrees_text hr {
+    width: 7%;
+    border: 1px solid #FF9B51;
+}
+
+.card_custom {
+    display: inline-block;
+    width: 30%;
+}
+
+.info_custom img {
+    width: 50%;
+    float: left;
+    border: 1px solid wheat;
+    border-radius: 50%;
+}
+
+.info_name {
+    float: right;
+    width: 49%;
+}
+
+.awesome_class {
+    width: 100%;
+    padding: 5% 0;
+}
+
+.overly_awes {
+    width: 100%;
+}
+
+.overly_awes p {
+    color: #85868b;
+}
+
+.card_awes {
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+.card_awes i.fas {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    border: 2px solid #ff8b38;
+    color: #ff8b38;
+    text-align: center;
+    font-size: 30px;
+}
+
+.stylish_class {
+    background: url(../image/bg1.jpg) center center / cover no-repeat;
+    text-align: center;
+}
+
+.stylish_class,
+.overlt_style {
+    width: 100%;
+}
+
+.overlt_style{
+    background-color: #0000007a;
+    padding: 6% 0;
+}
+
+.overlt_style h1 {
+    margin-bottom: 3%;
+    font-size: 30px;
+}
+
+.overlt_style p,
+.overlt_style h1{
+    color: white;
+}
+
+.overlt_style hr{
+    width: 10%;
+}
+
+.overlt_style p{
+    margin: 5%;
+}
+
+.overlt_style a{
+    border: 1px solid white;
+    color: white;
+    padding: 1%;
+}
+
 footer {
     background-color: black;
     padding: 1%;
