@@ -1,15 +1,6 @@
-img.part_top_image {
-    top: -3%;
-    left: -40px;
-    width: 15px;
-    height: 15px;
-}
-
-img.part_bottom_image {
-    top: 40%;
-    left: -25px;
-    width: 15px;
-    height: 15px;
+img.part_image {
+    width: 25px;
+    height: 25px;
 }
 
 .dropdown-item:hover {
@@ -32,6 +23,18 @@ img.part_bottom_image {
 .hero_section {
     background-image: url('../image/hero_section-image.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
+    background-position: center;
+}
+
+.card_titel_bgimage{
+    padding: 15%;
+}
+
+.button_start .btn{
+    color: rgb(0, 0, 0);
+}
+
+.image_shop{
+    width: 30px;
 }
